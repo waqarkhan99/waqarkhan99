@@ -1,3 +1,4 @@
+![logo](https://github.com/waqarkhan99/waqarkhan99/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Waqar Khan</h1>
 <h3 align="center">A Passionate Developer Engineer from Pakistan</h3>
 
